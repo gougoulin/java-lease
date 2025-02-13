@@ -38,12 +38,14 @@
         </dependency>
 
         <!--Spring Web starter-->
+        <!-- https://docs.spring.io/spring-boot/reference/web/index.html -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <!--Spring test related-->
+        <!-- link: https://docs.spring.io/spring-boot/reference/testing/index.html -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
